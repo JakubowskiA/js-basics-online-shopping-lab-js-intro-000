@@ -80,7 +80,7 @@ function placeOrder(cardNumber) {
       cart.pop();
   }
 } else {
-output = "Sorry, we don't have a credit card on file for you.";  
+output = "Sorry, we don't have a credit card on file for you.";
 }
 cart = [];
 cart.length = 0;
